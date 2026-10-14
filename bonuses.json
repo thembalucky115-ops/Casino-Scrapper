@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-10-14T12:09:02.729546+00:00",
+  "source_name": "Covers — New Jersey casino bonuses",
+  "source_url": "https://www.covers.com/casino/bonuses/new-jersey",
+  "offers": [
+    {
+      "casino": "BetMGM Casino",
+      "welcome_bonus": "Up to 1,700 Bonus Spins + $1,400 in Deposit Matches",
+      "wagering_requirement": "10x (spins), 15x (deposit matches)",
+      "minimum_deposit": "$10",
+      "source_url": "https://www.covers.com/casino/bonuses/new-jersey",
+      "source_terms": {
+        "welcome_bonus_raw": "Up to 1,700 Bonus Spins + $1,400 in Deposit Matches",
+        "wagering_raw": "10x (spins), 15x (deposit matches)",
+        "minimum_deposit_raw": "$10"
+      }
+    },
+    {
+      "casino": "DraftKings Casino",
+      "welcome_bonus": "Bet $5, Get 1,000 Flex Spins",
+      "wagering_requirement": "1x",
+      "minimum_deposit": "$5",
+      "source_url": "https://www.covers.com/casino/bonuses/new-jersey",
+      "source_terms": {
+        "welcome_bonus_raw": "Bet $5, Get 1,000 Flex Spins",
+        "wagering_raw": "1x",
+        "minimum_deposit_raw": "$5"
+      }
+    },
+    {
+      "casino": "Caesars Palace",
+      "welcome_bonus": "$10 Sign-Up Bonus + 100% Match up to $1,000 + 2,500 Reward Credits",
+      "wagering_requirement": "15x on slots, 30x on video poker, 75x on other games (excl. craps, roulette, baccarat and Sic Bo)",
+      "minimum_deposit": "$10",
+      "source_url": "https://www.covers.com/casino/bonuses/new-jersey",
+      "source_terms": {
+        "welcome_bonus_raw": "$10 Sign-Up Bonus + 100% Match up to $1,000 + 2,500 Reward Credits",
+        "wagering_raw": "15x on slots, 30x on video poker, 75x on other games (excl. craps, roulette, baccarat and Sic Bo)",
+        "minimum_deposit_raw": "$10"
+      }
+    }
+  ]
+}
